@@ -1,11 +1,9 @@
-## Prototype Enhancement (Branch: prototype)
+## Prototype Enhancement
 
-**Enhancement Idea:** Add a "Stadium Impact Dashboard" that includes sensitivity analysis and scenario modeling.
+**Enhancement Idea:** Add scenario modeling and sensitivity analysis to the Petco Park impact study.
 
 **What is being changed:**  
-Include interactive scenarios showing how attendance and revenue would change under different assumptions (e.g., stronger team performance, improved downtown transportation, or changes in ticket pricing).
+Include interactive scenarios showing how attendance and revenue would change under different assumptions (stronger team performance, improved downtown transportation, changes in ticket pricing, etc.).
 
-**Why this improves decision-making:**  
-It allows executives to “touch and feel” the impact of the stadium under different conditions, making the analysis more actionable and reducing the perception that it is just a static report.
-
----
+**Why this change could improve decision-making:**  
+It allows executives to test “what if” situations, making the analysis more practical and actionable instead of just showing historical numbers.
