@@ -1,6 +1,3 @@
-# LicoCIS627Repository
-Developing a unit 5 repo to execute the assignment for this week's activities. 
-
 # Petco Park Analytics Innovation Project
 
 **Project Title:** Quantifying the Causal Impact of Petco Park on San Diego Padres Attendance and Revenue
