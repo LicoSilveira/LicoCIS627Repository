@@ -30,3 +30,30 @@ The project uses historical data (2000–2025) including attendance, revenue, te
 This idea is currently in the **Creative Phase** of Alamar’s Four Phases of Innovation. The concept has been defined, but it still needs prototyping, engagement with decision-makers, and eventual integration into the organization’s workflow.
 
 ---
+
+## Prototype Evaluation
+
+After reviewing the prototype enhancement, I recommend integrating it into the main project. The addition of scenario modeling and sensitivity analysis significantly increases the tool’s value for decision-makers by showing not only what happened, but what could happen under different future conditions.
+
+**Feedback needed from leadership:**  
+- Which scenarios are most relevant to their current strategic questions?  
+- How should the final dashboard be presented (visual format, level of detail, frequency of updates)?
+
+---
+
+## Integration Decision
+**Decision:** The prototype branch was merged into main on April 12, 2026.  
+
+**Reason:** The enhancement adds clear decision-making value by allowing leadership to test different future scenarios, aligning with Alamar’s emphasis on moving analytics ideas from concept to practical organizational use.
+
+---
+
+## Reflection on Innovation and Version Control
+
+Using branches in GitHub supports **low-risk experimentation** by allowing the team to test new ideas (such as adding scenario modeling) without affecting the main project. This directly mirrors the **Prototyping Phase** described in Chapter 7.
+
+GitHub helps analytics ideas gain traction because it creates a transparent, documented history of how an idea evolved. Decision-makers can see the thought process, iterations, and evaluations — building trust and reducing organizational friction.
+
+This workflow perfectly aligns with Alamar’s Four Phases of Innovation: we started in the Creative Phase, used a branch for Prototyping, evaluated readiness for Engagement, and made a deliberate decision to move into the Build Phase. Version control turns analytics from isolated technical work into a collaborative, organization-wide innovation process.
+
+---
