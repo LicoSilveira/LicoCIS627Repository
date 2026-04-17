@@ -24,7 +24,7 @@ The project uses historical data (2000–2025) including attendance, revenue, te
 - **Fan Experience team**: Design better downtown activation and game-day experience.
 
 ## Connection to Chapter 7
-This idea is currently in the **Creative Phase** of Alamar’s Four Phases of Innovation. The concept has been defined, but it still needs prototyping, engagement with decision-makers, and eventual integration into the organization’s workflow.
+This idea is currently in the **Creative Phase** moving into the **Prototyping Phase**. The core concept has been defined, and a prototype enhancement is being tested in a separate branch to allow low-risk experimentation, as recommended by Alamar (2024).
 
 ---
 
